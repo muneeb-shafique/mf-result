@@ -1,71 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Student Result Manager Program - Detailed Overview">
-    <title>Student Result Manager - Detailed Overview</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            color: #333;
-            background-color: #f4f4f4;
-        }
-
-        h1, h2 {
-            color: #004a99;
-        }
-
-        .section-title {
-            background-color: #004a99;
-            color: white;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 15px;
-        }
-
-        .content {
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-
-        ul {
-            list-style-type: none;
-        }
-
-        ul li {
-            margin-bottom: 10px;
-        }
-
-        .button {
-            padding: 10px 15px;
-            background-color: #004a99;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-
-        .button:hover {
-            background-color: #003a7d;
-        }
-
-        .video-embed {
-            width: 100%;
-            height: 400px;
-            margin: 20px 0;
-        }
-
-        .footer {
-            margin-top: 40px;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
 
     <header>
         <h1>Student Result Manager Program</h1>
@@ -119,6 +51,3 @@
             <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a>
         </p>
     </footer>
-
-</body>
-</html>
