@@ -1,0 +1,9 @@
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\bin\Release\SignUpDemo.exe.config
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\SignUpDemo.mf.resources
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\SignUpDemo.Properties.Resources.resources
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\MegaProject.csproj.GenerateResource.Cache
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\bin\Release\MF Result.exe.config
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\Interop.WMPLib.dll
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\AxInterop.WMPLib.dll
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\MegaProject.csproj.ResolveComReference.cache
+C:\Users\munee\Documents\visual studio 2012\Projects\MegaProject\SignUpDemo\obj\Release\SignUpDemo.Tutorial.resources
